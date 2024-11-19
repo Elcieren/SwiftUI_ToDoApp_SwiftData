@@ -227,11 +227,11 @@
             <img src="https://github.com/user-attachments/assets/b1035c0b-7120-485d-a36f-15ccc6497fed" style="width: 100%; height: auto;">
         </td>
         <td style="text-align: center; width: 16.67%;">
-            <h4 style="font-size: 14px;">SwiftData Veri Silme<</h4>
+            <h4 style="font-size: 14px;">SwiftData Veri Silme</h4>
             <img src="https://github.com/user-attachments/assets/ab622ee5-ef5a-4554-8504-ae96f7cf82e6" style="width: 100%; height: auto;">
         </td>
               <td style="text-align: center; width: 16.67%;">
-            <h4 style="font-size: 14px;">SwiftData Veri Silme<</h4>
+            <h4 style="font-size: 14px;">SwiftData Veri Guncelleme</h4>
             <img src="https://github.com/user-attachments/assets/2f23c617-cfeb-4bcf-9bfb-3ef37ab16e2d" style="width: 100%; height: auto;">
         </td>
     </tr>
