@@ -1,5 +1,5 @@
 ## SwiftUI_ToDoApp_SwiftData
-| SwiftData Veri Ekle&&Silme&&Duzenleme |
+| SwiftData Veri Ekle&&Silme&&Düzenleme |
 |---------|
 | ![Video 1](https://github.com/user-attachments/assets/85087770-72f4-4ce6-92cd-c359311e645c) | 
 
